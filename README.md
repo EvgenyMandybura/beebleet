@@ -1,4 +1,4 @@
-## IPR Mandybura 2021
+## Mandybura 2024
 
 ### **How to run:**
 * run &nbsp; `npm install`
